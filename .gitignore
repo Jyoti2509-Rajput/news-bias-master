@@ -1,0 +1,5 @@
+notes\
+articles.csv
+all-the-news\
+*.csv
+*.pkl
